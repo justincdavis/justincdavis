@@ -6,4 +6,4 @@ ICS 2025: [HARNESS: Holistic Resource Management for Diversely Scaled Edge Cloud
 
 DATE 2024: [Context-aware Multi-Model Object Detection for Diversely Heterogeneous Compute Systems](https://justincdavis.github.io/files/date24_context_paper.pdf)
 
-Awarded the Autonomous Systems Design Outstanding Paper Award
+- Awarded the Autonomous Systems Design Outstanding Paper Award
